@@ -1,6 +1,6 @@
 
 # About Me:
-🧑🏻‍💻I'm Software Engineering student at Süleyman Demirel University.<br>📬Shoot me an Email or add me on Linkedin :)
+🧑🏻‍💻I'm Software Engineer.<br>📬Shoot me an Email or add me on Linkedin :)
 
 
 ## 🌐 Socials:
